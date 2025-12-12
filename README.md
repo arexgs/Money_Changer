@@ -34,8 +34,8 @@ Karena USD memiliki struktur denominasi yang kanonik, algoritma Greedy selalu me
 - Menguji efektivitas Greedy dalam optimasi penukaran uang.
 
 
-## DISUSUN OLEH KELOMPOK 3 Kelas C:
-Fathoni Nugroho (L0124055)
-Vici Oase (L0124081)
-Aisyah Zahrotul Jannah (L0124086)
-Az Zahra Sam Putri (L0124089)
+## DISUSUN OLEH KELOMPOK 3 KELAS C:
+- Fathoni Nugroho (L0124055)
+- Vici Oase (L0124081)
+- Aisyah Zahrotul Jannah (L0124086)
+- Az Zahra Sam Putri (L0124089)
