@@ -12,7 +12,7 @@ def get_exchange_rate_idr_to_usd():
     
 def greedy_denomination(amount_usd):
     denominations = [
-        Decimal('100.00'), Decimal('50.00'), Decimal('20.00'), Decimal('10.00'), Decimal('5.00'), Decimal('2.00'),
+        Decimal('100.00'), Decimal('50.00'), Decimal('20.00'), Decimal('10.00'), Decimal('5.00'),
         Decimal('1.00'), Decimal('0.50'), Decimal('0.25'), Decimal('0.10'), Decimal('0.05'), Decimal('0.01')
     ]
 
